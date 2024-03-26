@@ -10,6 +10,10 @@ ssl._create_default_https_context = ssl._create_unverified_context
 nltk.data.path.append(os.path.abspath("nltk_data"))
 nltk.download('punkt')
 
+
+
+print("Kwaku")
+
 intents = [
     {
         "tag": "greeting",
