@@ -55,7 +55,7 @@ intents = [
         "tag": "credit_score",
         "patterns": ["What is a credit score", "How do I check my credit score", "How can I improve my credit score"],
         "responses": ["A credit score is a number that represents your creditworthiness. It is based on your credit history and is used by lenders to determine whether or not to lend you money. The higher your credit score, the more likely you are to be approved for credit.", "You can check your credit score for free on several websites such as Credit Karma and Credit Sesame."]
-    }
+    },
     {
         "tag": "food_recommendations",
         "patterns": ["Can you recommend a good restaurant?", "What's a good place to eat?", "I'm hungry, any suggestions?", "Where should I dine tonight?", "Any nice eateries around here?"],
